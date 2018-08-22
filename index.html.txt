@@ -1,0 +1,3 @@
+<body>
+	The Amazing of Github
+</body>
